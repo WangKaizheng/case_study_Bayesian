@@ -1,1 +1,1 @@
-# case_study_Baysian
+# case_study_Bayesian
